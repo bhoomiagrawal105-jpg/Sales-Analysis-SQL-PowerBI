@@ -1,0 +1,19 @@
+README.md
+# Sales Analysis (SQL + Power BI)
+
+## 📌 Overview
+This project analyzes sales data using SQL and Power BI to generate insights.
+
+## 🔧 Tools Used
+- SQL
+- Power BI
+- Excel
+
+## 📊 Key Insights
+- Identified top-selling products
+- Analyzed regional sales performance
+- Visualized trends using dashboards
+
+## 🚀 Future Scope
+- Add real dataset
+- Improve dashboard with advanced visuals
